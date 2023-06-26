@@ -1,7 +1,6 @@
 {
   "words":
     [
-      "a",
       "able",
       "about",
       "absolute",
