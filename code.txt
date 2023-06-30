@@ -1,7 +1,2 @@
 ["Ask","About","Above","Across","Add","Age","Air","Art","Boy","Bag","Baby","Bed","Bell","Build","Burn","Ball","Best","Bore","Cat","Car","Chance","Child","Class","Cook","Cool","Cut","Day","Die","Dirty","Draw","Drop","Slope","Top","Each","Education","Effect","Face","Force",
 "Resource","Boss","Father","Fault","Fox","Funny","Future","Game","Gate","Gift","God","Gold","Gun","Hammer","Hear","Hour","Invent","Jump","Knife","Kind","Lady","Laugh","Last","Lock","Owl","Boat","Cave","Hole","Hot"]
-
-{
-  "1": {'ask', 'task', 'mask', 'cask', 'masque', 'bask', 'basque', 'flask', 'unmask'},
-  "2": {'about', 'doubt', 'tout', 'bout', 'toute', 'pout', 'shout', 'drought', 'stout', 'trout', 'gout', 'rout', 'ahout', 'spout', 'redoubt', 'lout', 'nowt', 'devout', 'scout', 'clout', 'snout', 'sprout', 'grout', 'flout', 'kraut', 'layabout', 'without', 'throughout',              'thereabout', 'hereabout', 'turnabout', 'knockabout', 'marabout', 'runabout', 'logout', 'gadabout', 'roundabout', 'sauerkraut', 'waterspout', 'downspout', 'roustabout', 'walkabout', 'mangetout', 'beansprout', 'bowed', 'pouch', 'allowed', 'loud', 'proud', 'aloud',           'avowed', 'couch', 'vowed', 'ploughed', 'plowed', 'sowed', 'cowed', 'vouch', 'gouge', 'sourdough', 'avouch', 'wowed', 'trowed', 'crowd', 'cloud', 'endowed', 'shroud', 'crouch', 'slouch', 'debouch', 'grouch', 'powwowed', 'becloud', 'resowed', 'disallowed',                   'disavowed', 'enshroud', 'overcrowd', 'houseproud', 'overcloud', 'snowplowed', 'snowploughed', 'thundercloud', 'cornrowed'}
-}
