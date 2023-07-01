@@ -1,3 +1,3 @@
 ["Ask","About","Above","Across","Add","Age","Air","Art","Boy","Bag","Baby","Bed","Bell","Build","Burn","Ball","Best","Bore","Cat","Car","Chance","Child","Class","Cook","Cool","Cut","Day","Die","Dirty","Draw","Drop","Slope","Top","Each","Education","Effect","Face","Force",
 "Resource","Boss","Father","Fault","Fox","Funny","Future","Game","Gate","Gift","God","Gold","Gun","Bigger","Hour","Invent","Jump","Knife","Kind","Lady","Laugh","Last","Lock","Owl","Boat","Cave","Hole","Hot", "Kite", "Sing", "Berry", "Ship", "Nest", "Less", "City", 
-"Prism", "Able", "Nibble", "Famous", "Full"]
+"Prism", "Able", "Nibble", "Famous", "Dish"]
